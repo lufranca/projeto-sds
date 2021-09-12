@@ -1,8 +1,4 @@
-<<<<<<< HEAD
 import { Seller } from "./seller"
-=======
-import { Seller } from "./Seller"
->>>>>>> 5509495fc403a181c6d16f8a685975e654a3ffb1
 
 export type Sale = {
     id: number;
